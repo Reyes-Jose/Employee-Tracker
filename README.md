@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1Yjpe1erBsEFzPdXOeqfeu4syEluIX4Lt/view
 
 ## How to contribute
         
-[Contributor Covenant](https://www.contributor-covenant.org/)
+[Contributor Covenant](https://www.contributor-covenant.org/version/1/0/0/code-of-conduct/)
 
 ## Tests
 
